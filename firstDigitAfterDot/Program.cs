@@ -15,6 +15,7 @@ namespace firstDigitAfterDot
             int firstNumber = (int)firstNumberAfterDot % 10;
 
             Console.WriteLine(firstNumber);
+            Console.ReadKey();
         }
     }
 }
